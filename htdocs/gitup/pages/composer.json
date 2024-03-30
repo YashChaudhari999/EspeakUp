@@ -1,0 +1,14 @@
+{
+  "name": "pages/pages",
+  "description": "Your project description",
+  "require": {
+    "php": "^7.2.5 || ^8.0",
+    "elasticemail/elasticemail-php": "*@dev"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/elasticemail/elasticemail-php.git"
+    }
+  ]
+}

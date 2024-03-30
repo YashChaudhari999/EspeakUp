@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(90deg, rgb(83, 86, 255) 0%, rgb(55, 140, 231) 35%, rgb(103, 198, 227) 100%) !important;
+    position: relative;
+    margin-top: 70px;
+}
+
+.form-control {
+    width: 100%;
+}
+
+.center-card {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.center-button {
+    text-align: right;
+}
+
+.back-button {
+    text-align: left;
+}
+
+.logo {
+    position: absolute;
+    top: -40px;
+    left: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+@media (max-width: 576px) {
+    .logo {
+        display: none;
+    }
+
+    .back-button,
+    .center-button {
+        text-align: center;
+        margin-top: 10px;
+    }
+}
+
+/* Style for validation feedback */
+.invalid-feedback {
+    display: none;
+    color: #dc3545;
+}
+
+.valid-feedback {
+    display: none;
+    color: #28a745;
+}
