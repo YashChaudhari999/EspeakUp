@@ -1,4 +1,4 @@
-# EspeakUP - Language Learning Chatbot Website
+# EspeakUp - Language Learning Chatbot Website
 
 EspeakUP is a language learning chatbot website that helps users improve their language skills through interactive conversations and exercises. The website is live at [https://espeakup.rf.gd](https://espeakup.rf.gd) and is built using PHP, CSS, HTML, JavaScript, and MySQL.
 
