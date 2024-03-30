@@ -17,7 +17,7 @@ To set up EspeakUP locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YashChaudhari999/EspeakU.git
+   git clone https://github.com/YashChaudhari999/EspeakUp.git
    ```
 
 2. Set up your local development environment with PHP, MySQL, and a web server like Apache or Nginx.
