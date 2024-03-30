@@ -39,7 +39,7 @@ To set up EspeakUP locally, follow these steps:
 ## Folder Structure
 
 - `css/`: Contains CSS stylesheets.
-- `js/`: Contains JavaScript files.
+- `script/`: Contains JavaScript files.
 - `assets/`: Contains images used in the website.
 - `includes/`: Contains PHP files for server-side functionalities.
 - `vendor/`: Contains third-party libraries and dependencies.
